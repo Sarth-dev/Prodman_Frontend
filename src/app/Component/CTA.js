@@ -8,7 +8,7 @@ export default function CTASection() {
       <p className="text-lg mb-6">
         Start using our intuitive dashboard today – it's fast, free, and built for scale.
       </p>
-      <a href="/dashboard">
+      <a href="/Dashboard">
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-md hover:bg-gray-100">
           Get Started
         </button>
