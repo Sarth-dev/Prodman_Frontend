@@ -17,7 +17,7 @@ A clean and responsive frontend built using **Next.js** and **Tailwind CSS**, th
 ## 🔗 Connected Backend
 
 This frontend connects to a live Node.js/Express backend API deployed on Render:  
-`https://your-backend-service.onrender.com/api/products`
+`https://prodman-backend.onrender.com`
 
 ## 📦 Tech Stack
 
